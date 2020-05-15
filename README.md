@@ -11,3 +11,4 @@
 - **Clustering**
   - K Means Clustering
   - K Medoids Clustering
+  - Stream Clustering (Clustering for streaming data)
